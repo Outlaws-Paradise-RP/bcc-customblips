@@ -66,11 +66,11 @@ Config.Blips = {
         Pos = { x = 1361.01, y = -1300.44, z = 77.76 },
         Jobs = { "police" }
     },
-    {
-        Name = "Blackwater Job Center",
-        ID = 587827268,
-        BlipName = "blip_job_board",
-        Pos = { x = -873.09, y = -1334.35, z = 43.96 },
-        Jobs = 0
-    },
+    -- {
+    --     Name = "Blackwater Job Center",
+    --     ID = 587827268,
+    --     BlipName = "blip_job_board",
+    --     Pos = { x = -873.09, y = -1334.35, z = 43.96 },
+    --     Jobs = 0
+    -- },
 }
